@@ -1,0 +1,1 @@
+<h1 text-align="center">Purchase Entry</h1>
